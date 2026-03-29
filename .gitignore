@@ -1,0 +1,9 @@
+Offroad_Segmentation_testImages/
+train_stats/
+weights/
+Offroad_Segmentation_Training_Dataset/
+output_comparison/
+*.pth
+*.pt
+*.env
+.env
