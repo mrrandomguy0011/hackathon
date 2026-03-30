@@ -1,6 +1,7 @@
 # 🚙 SegFormer: Advanced Off-Road Semantic Segmentation
 👋 **Welcome to our 2026 Hackathon Project!**
 
+Visit Hugging Face for complete project weights : https://huggingface.co/datasets/rpudathu/hackathon/tree/main
 Ever tried to teach a computer the difference between a dry bush and a rock covered in dirt? It’s tough. This repository contains our journey to build an incredibly fast, highly accurate semantic segmentation pipeline for extreme off-road environments. 
 
 Built under the wire during a time-crunched hackathon, we evolved this project from a slow, "blobby" prototype into a lightning-fast, edge-detecting powerhouse optimized for dual-GPU training. 
