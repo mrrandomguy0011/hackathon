@@ -47,7 +47,9 @@ To make this work in a hackathon setting, we had to engineer a few creative work
 | **Rocks 🪨** | 0.114 | *Hackathon limitation:* We need more training data to boost this! |
 | **Overall mIoU** | **~0.540** | **Highly competitive for a 30-minute training sprint!** |
 
+
 ---
+<img width="310" height="446" alt="Screenshot 2026-03-30 000805" src="https://github.com/user-attachments/assets/319846b3-d458-4ca4-9c5d-6f5ba089bea3" />
 
 ---
 
